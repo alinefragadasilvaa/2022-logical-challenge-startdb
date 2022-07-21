@@ -60,4 +60,8 @@ class Forca { // O ARQUIVO README POSSUI INSTRUÇÕES DE USO DO CÓDIGO :)
   }
 }
 
-module.exports = Forca; // O ARQUIVO README POSSUI INSTRUÇÕES DE USO DO CÓDIGO :)
+module.exports = Forca; 
+
+// INSTRUÇÕES DE USO DO CÓDIGO PRESENTES NO README.md
+// Para rodar o código corretamente, faça o download do arquivo zip, extraia os arquivos,
+//abra o cmd na pasta do arquivo e execute os comandos "npm install" e "npm start" respectivamente
