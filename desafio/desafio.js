@@ -17,4 +17,6 @@ while (!["perdeu", "ganhou"].includes(jogo.buscarEstado())) { // roda enquanto n
 
 console.log("Você " + jogo.buscarEstado()); // informa se perdeu ou ganhou
 
-// O ARQUIVO README POSSUI INSTRUÇÕES DE USO DO CÓDIGO :)
+// INSTRUÇÕES DE USO DO CÓDIGO PRESENTES NO README.md
+// Para rodar o código corretamente, faça o download do arquivo zip, extraia os arquivos,
+//abra o cmd na pasta do arquivo e execute os comandos "npm install" e "npm start" respectivamente
