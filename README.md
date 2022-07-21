@@ -2,6 +2,8 @@
 
 Contém resolução do desafio lógico do programa de estágio da DB desenvolvida por Aline Fraga da Silva
 
+# jogo da forca
+
 Para rodar o código corretamente, faça o download do arquivo zip, extraia os arquivos, abra o cmd na pasta do arquivo e execute os comandos "npm install" e "npm start" respectivamente
 
 Aline Fraga da Silva
